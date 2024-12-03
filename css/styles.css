@@ -1,0 +1,17 @@
+table,
+th,
+td {
+    border: 2px solid blueviolet;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: chartreuse;
+}
+.tablerow {
+    width: 100%;
+}
+h1 {
+    background-color: blueviolet;
+    height: 50px;
+    text-align: center;
+}
+
